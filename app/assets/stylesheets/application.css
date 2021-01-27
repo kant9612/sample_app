@@ -82,10 +82,10 @@
   display: block;
   color: gray;
   font-size: 12px;
-  oveflow: hidden;
+  overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-}
+}rails
 
 .list-title {
   display: block;
